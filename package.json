@@ -1,0 +1,38 @@
+{
+  "name": "my-essential-extension-pack",
+  "displayName": "My Essential Extension Pack",
+  "description": "A collection of my essential extensions",
+  "publisher": "Holtskog",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Microsoft/vscode-wordcount.git"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "almenon.arepl",
+    "austin.code-gnu-global",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "DavidAnson.vscode-markdownlint",
+    "eamodio.gitlens",
+    "equinusocio.vsc-material-theme-icons",
+    "esbenp.prettier-vscode",
+    "formulahendry.code-runner",
+    "James-Yu.latex-workshop",
+    "ms-python.python",
+    "ms-vscode.cpptools",
+    "njpwerner.autodocstring",
+    "oguhpereira.spotify-color-theme",
+    "pranaygp.vscode-css-peek",
+    "quicktype.quicktype",
+    "ritwickdey.LiveServer",
+    "shd101wyy.markdown-preview-enhanced",
+    "xaver.clang-format",
+    "kiteco.kite"
+  ]
+}
